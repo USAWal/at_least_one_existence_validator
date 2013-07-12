@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
     helper method and default error message.
   EOF
   s.email                 = 'usawal@gmail.com'
-  s.homepage              = 'http://rubygems.org/at_least_one_existence_validator'
+  s.homepage              = 'http://github.com/USAWal/at_least_one_existence_validator'
   s.license               = 'MIT'
   s.post_install_message  = <<-EOF
     Thank you for installing!'
