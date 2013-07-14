@@ -6,11 +6,11 @@ Easy to use Rails active model validator which tests whether an associated. coll
 Installing
 ----------
 
-1. Add to the `Gemfile`:
+Add to the `Gemfile`:
 ```ruby
 gem 'at_least_one_validator'
 ```
-2. After adding, install it
+After adding, install it
 ```shell
 bundle install
 ```
