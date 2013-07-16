@@ -1,3 +1,5 @@
+# coding: utf-8
+
 require 'test/unit'
 require 'at_least_one_existence_validator'
 require 'active_record'
