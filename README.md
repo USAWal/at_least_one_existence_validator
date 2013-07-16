@@ -1,4 +1,4 @@
-at\_least\_one\_existence\_validator
+at\_least\_one\_existence\_validator [![Build Status](https://travis-ci.org/USAWal/at_least_one_existence_validator.png)](https://travis-ci.org/USAWal/at_least_one_existence_validator)
 ====================================
 
 Easy to use Rails active model validator which tests whether an associated collection will have any objects after saving. It's useful with one-to-many and many-to-many relationships.
